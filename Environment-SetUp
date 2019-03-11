@@ -1,0 +1,11 @@
+
+Kali Linux (current version using: 17.03
+
+UFW: active
+Package download: https://packages.debian.org/stretch/all/ufw/download
+sudo ufw default deny: close all ports
+sudo ufw allow to (port desired)
+sudo ufw allow from (port desired)
+
+Will be using only HTB port
+-------
