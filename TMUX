@@ -1,1 +1,18 @@
+** This file is intended to shortcut procedures and commands to reduce time spent. **
+
+Tmux Environment setup
+
+$ tmux new -s machineName   # start a new session
+$ tmux a -t sessionName     # attach to a created session
+$ tmux ls                   # list sessions
+$ ctrl + b  c               # create a new window
+$ ctrl + b  :rename-window name #rename the window
+$ ctrl + b numberOfWindow   # navigate through windows
+
+Kill panes: $ ctrl + b x
+
+Exit session: $ exit
+
+
+
 
