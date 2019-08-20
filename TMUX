@@ -8,7 +8,7 @@ $ tmux ls                   # list sessions
 $ ctrl + b  c               # create a new window
 $ ctrl + b  :rename-window name #rename the window
 $ ctrl + b numberOfWindow   # navigate through windows
-
+$ ctrl + b ]                # scroll up and down with arrow keys
 Kill panes: $ ctrl + b x
 
 Exit session: $ exit
