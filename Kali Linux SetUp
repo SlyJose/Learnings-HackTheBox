@@ -17,5 +17,7 @@ $ sudo apt-get update
 Then run the VMWare tools:
 
 $apt -get install open-vm-tools-desktop fuse
+
+Then reboot the machine, and adjust resolution on "Display" in settings
 *******************
 
