@@ -1,0 +1,21 @@
+
+
+*******************
+Basic VM setup
+
+1- Install latest distro of Kali Linux on VMWare 
+2- Once installed, make sure the screen size is correct, go to your terminal and run:
+
+cat /etc/apt/sources.list
+
+If no repos are in there, add:
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+This will allow you to update
+$ sudo apt-get update
+
+Then run the VMWare tools:
+
+$apt -get install open-vm-tools-desktop fuse
+*******************
+
