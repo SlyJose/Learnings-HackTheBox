@@ -25,3 +25,14 @@ Once installed:
 2- apt-get upgrade -y
 3- apt-get dist-upgrade -y
 
+Additional packages for Kali boosting:
+1- apt-get install     (all these tools, used for memory allocation, cleanup, log elimination, and other tools)
+preload
+bleachbit
+bum
+gnome-do
+apt-file
+scrub
+shutter
+figlet
+
