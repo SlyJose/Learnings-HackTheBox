@@ -1,8 +1,0 @@
-
-# Nmap discovery
-
-$ nmap -sV -sC -oA nmap ipAddress
-
--sV: enumerate services
-- sC: enumerate scripts
--oA: use baseline 
